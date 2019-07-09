@@ -1,7 +1,7 @@
-class capital
+class capital   #from dev1
 {
-	public static void main()
+	public static void main()    #from dev1
 	{
-		system out println("helo ");
+		system out println("helo from dev1 ");
 	}
 }
