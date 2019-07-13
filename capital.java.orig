@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+class capital    #from dev2
+{
+	public static void main()    #from dev2
+=======
+class capital   #from dev1
+{
+	public static void main()    #from dev1
+>>>>>>> 9a7fa06a9cc33d02551e91757f604f08db802c01
+	{
+		system out println("helo from dev1 ");
+	}
+}    #from dev2
